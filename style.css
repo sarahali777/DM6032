@@ -1,0 +1,39 @@
+header {font-family: segoe UI, arial;
+text-align: center;
+font-size:25px;
+font-weight: bold;
+color: navy;
+letter-spacing: 3px;
+border:2px solid black;
+  line-height:48px;
+  background-color:lightgrey;
+  
+}
+ul {disply:flex;
+  justify-content:center;
+gap:50px;
+}
+a {color:black;
+  font-family:times new roman, arial;
+  font-size:13px
+    letter-spacing:3px;
+  text-decroration: underline;
+  font-weight:bold;
+
+}
+table {color : grey;
+border : 10px solid black;
+border-collapse:collapse;
+  width: 50%;
+  background-color: light grey;
+}
+
+td {
+font-family:times new roman. arial;
+  
+}
+
+th
+{font-weight:bold;color:black;}
+
+media{max-width:3}
